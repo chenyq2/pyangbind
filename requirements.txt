@@ -1,4 +1,0 @@
-pyang
-bitarray
-lxml
-six
